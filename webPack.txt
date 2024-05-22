@@ -1,0 +1,13 @@
+npm create vite@latest
+cd (project folder)
+npm install
+npm run dev
+
+.................................
+npm install -D tailwindcss
+npm run tailwind
+
+...................................
+
+npm install typescript --save-dev
+npm install -g typescript
